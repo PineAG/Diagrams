@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T22:10:29.958Z" agent="5.0 (Windows)" etag="9udK9QqnF3atOsj57ajI" version="18.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-24T22:11:51.051Z" agent="5.0 (Windows)" etag="SJuvm8H2qu67PIDFUjFT" version="18.1.2" type="github" pages="8">
   <diagram id="dAfNnbwmk66fKgJQbiKN" name="图例">
     <mxGraphModel dx="1630" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
         <mxCell id="gVldJFzOIA-WBot7rfre-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="119.91" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="gVldJFzOIA-WBot7rfre-25" value="&lt;div&gt;vless&lt;/div&gt;&lt;div&gt;&lt;i&gt;QUIC&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="shape=or;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="gVldJFzOIA-WBot7rfre-25" value="&lt;div&gt;dokodemo&lt;/div&gt;&lt;div&gt;door&lt;br&gt;&lt;/div&gt;" style="shape=or;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="290" y="325" width="50" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gVldJFzOIA-WBot7rfre-26" value="客户端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
@@ -435,7 +435,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MDKhyHKykkoBU-NVTVrm" name="端对端加密">
-    <mxGraphModel dx="1772" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -492,9 +492,6 @@
         </mxCell>
         <mxCell id="lKGIf8DJpusTSOYHwYOd-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="119.91" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lKGIf8DJpusTSOYHwYOd-25" value="&lt;div&gt;vless&lt;/div&gt;&lt;div&gt;&lt;i&gt;QUIC&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="shape=or;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="290" y="325" width="50" height="44" as="geometry" />
         </mxCell>
         <mxCell id="lKGIf8DJpusTSOYHwYOd-26" value="客户端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="210.95" y="260" width="98" height="30" as="geometry" />
@@ -594,6 +591,9 @@
         </mxCell>
         <mxCell id="lKGIf8DJpusTSOYHwYOd-71" value="TCP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-430.7" y="504.8" width="58.86" height="15.45" as="geometry" />
+        </mxCell>
+        <mxCell id="J4jqRFIjXG8mixCpLgwq-1" value="&lt;div&gt;dokodemo&lt;/div&gt;&lt;div&gt;door&lt;br&gt;&lt;/div&gt;" style="shape=or;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="290" y="325" width="50" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
