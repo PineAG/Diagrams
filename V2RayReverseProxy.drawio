@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T18:25:40.429Z" agent="5.0 (Windows)" etag="mWrsNXxwiPXoNjbNWcmf" version="18.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-24T18:27:35.544Z" agent="5.0 (Windows)" etag="3jpoz13_JgwbPjpQqh3v" version="18.1.2" type="github" pages="2">
   <diagram id="dAfNnbwmk66fKgJQbiKN" name="图例">
     <mxGraphModel dx="1381" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,17 @@
         <mxCell id="MxNdQzAcVEnt0wkq7xaE-5" value="外部客户端/服务器" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-360" y="395" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-o0n9CucqJSz07B7oCcp-2" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="520" width="150" height="90" as="geometry" />
+        <mxCell id="-o0n9CucqJSz07B7oCcp-2" value="Bridge" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="470" width="140" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="-o0n9CucqJSz07B7oCcp-3" value="&lt;div&gt;V2Ray Bridge&lt;/div&gt;&lt;div&gt;在Outbound之间转发流量&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="497" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-o0n9CucqJSz07B7oCcp-4" value="Portal" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-511" y="570" width="140" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="-o0n9CucqJSz07B7oCcp-5" value="&lt;div&gt;V2Ray Portal&lt;/div&gt;&lt;div&gt;在Inbound之间转发流量&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="597" width="98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
