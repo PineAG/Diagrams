@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T18:35:15.372Z" agent="5.0 (Windows)" etag="p3DjqveVEtjuq0Q0ojzO" version="18.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-24T18:36:03.240Z" agent="5.0 (Windows)" etag="U87X_m7py6z3xOHxpNK-" version="18.1.2" type="github" pages="3">
   <diagram id="dAfNnbwmk66fKgJQbiKN" name="图例">
     <mxGraphModel dx="1209" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="MxNdQzAcVEnt0wkq7xaE-5" value="外部客户端/服务器" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-360" y="395" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-o0n9CucqJSz07B7oCcp-2" value="&lt;div&gt;&lt;i&gt;域名&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="-o0n9CucqJSz07B7oCcp-2" value="&lt;div&gt;&lt;i&gt;域名&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="-460" y="490" width="90" height="54" as="geometry" />
         </mxCell>
         <mxCell id="-o0n9CucqJSz07B7oCcp-3" value="&lt;div&gt;V2Ray Bridge&lt;/div&gt;&lt;div&gt;在Outbound之间转发流量&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
         <mxCell id="-o0n9CucqJSz07B7oCcp-5" value="&lt;div&gt;V2Ray Portal&lt;/div&gt;&lt;div&gt;在Inbound之间转发流量&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-360" y="597" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3z3euPZ-oONKQTYkaIbs-1" value="&lt;div&gt;&lt;i&gt;域名&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="3z3euPZ-oONKQTYkaIbs-1" value="&lt;div&gt;&lt;i&gt;域名&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="-460" y="580" width="90" height="54" as="geometry" />
         </mxCell>
         <mxCell id="A_F6-4BqufZa0KoWxfFx-1" value="" style="group;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;" vertex="1" connectable="0" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="A_F6-4BqufZa0KoWxfFx-2" value="TCP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;" vertex="1" parent="A_F6-4BqufZa0KoWxfFx-1">
           <mxGeometry y="-10" width="119" height="15.45" as="geometry" />
         </mxCell>
-        <mxCell id="A_F6-4BqufZa0KoWxfFx-3" value="域名&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;" vertex="1" parent="A_F6-4BqufZa0KoWxfFx-1">
+        <mxCell id="A_F6-4BqufZa0KoWxfFx-3" value="域名&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;" vertex="1" parent="A_F6-4BqufZa0KoWxfFx-1">
           <mxGeometry y="5.45" width="119" height="14.55" as="geometry" />
         </mxCell>
         <mxCell id="A_F6-4BqufZa0KoWxfFx-4" value="反向代理连接" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
@@ -195,7 +195,10 @@
           <mxGeometry x="-20" y="390" width="65.45" height="15" as="geometry" />
         </mxCell>
         <mxCell id="DFzKY6krtGT2lfIgrM9Z-1" value="TCP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;rotation=60;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="381" width="65.45" height="15" as="geometry" />
+          <mxGeometry x="-79.13" y="387.5" width="65.45" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="t-DRDJ2CueAatbwlD4yn-1" value="TCP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;flipH=1;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="-91" y="394" width="65.45" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
