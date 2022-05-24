@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T21:58:36.514Z" agent="5.0 (Windows)" etag="aZXnX0Ry1ZdxIRgQiPVy" version="18.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-24T22:10:29.958Z" agent="5.0 (Windows)" etag="9udK9QqnF3atOsj57ajI" version="18.1.2" type="github" pages="8">
   <diagram id="dAfNnbwmk66fKgJQbiKN" name="图例">
     <mxGraphModel dx="1630" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -282,7 +282,7 @@
         <mxCell id="ZHhKA3xxa_BlzV9NOmU7-16" value="浏览器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="152" y="290" width="78.18" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZHhKA3xxa_BlzV9NOmU7-18" value="外网服务器" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+        <mxCell id="ZHhKA3xxa_BlzV9NOmU7-18" value="公网转发服务器" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-69.05000000000001" y="260" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kt0yC8OSN1YI0qSnyHlI-1" value="re.ver.se" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -337,7 +337,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="timX-3-dgM58Ib0x6Udj" name="带有身份验证的反向代理">
-    <mxGraphModel dx="2165" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1381" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,7 +356,7 @@
         <mxCell id="gVldJFzOIA-WBot7rfre-5" value="浏览器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="408" y="291" width="78.18" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gVldJFzOIA-WBot7rfre-6" value="外网代理服务器" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+        <mxCell id="gVldJFzOIA-WBot7rfre-6" value="公网转发服务器" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-69.05000000000001" y="260" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVldJFzOIA-WBot7rfre-7" value="re.ver.se" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
