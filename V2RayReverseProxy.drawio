@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T18:14:12.006Z" agent="5.0 (Windows)" etag="Tw0N_p747L0-c9g5_u2W" version="18.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-24T18:17:03.306Z" agent="5.0 (Windows)" etag="OsKsHk92FY1slBWCds6O" version="18.1.2" type="github" pages="2">
   <diagram id="dAfNnbwmk66fKgJQbiKN" name="图例">
-    <mxGraphModel dx="1381" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1381" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o6Mup9R42cLi4TRuiqjT-1" value="协议" style="shape=or;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="100" width="49" height="43.64" as="geometry" />
+        <mxCell id="o6Mup9R42cLi4TRuiqjT-1" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;代理协议&lt;/div&gt;&amp;lt;传输层协议&amp;gt;" style="shape=or;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="80" width="69" height="43.64" as="geometry" />
         </mxCell>
-        <mxCell id="_T0HbXTaDHtxMW7bPjik-1" value="协议" style="shape=or;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="160" width="49" height="43.64" as="geometry" />
+        <mxCell id="_T0HbXTaDHtxMW7bPjik-1" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;代理协议&lt;/div&gt;&amp;lt;传输层协议&amp;gt;" style="shape=or;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="160" width="69" height="43.64" as="geometry" />
         </mxCell>
         <mxCell id="qxkkCo4nE8JRs2fD6mIy-1" value="TCP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="20" width="80" height="20" as="geometry" />
+          <mxGeometry x="-450" y="-30" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TTGA-UtNI_HF1vfTKt_W-1" value="" style="group;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-450.9971623931624" y="59.99545454545455" width="80" height="20" as="geometry" />
+          <mxGeometry x="-450.9971623931624" y="29.99545454545455" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TTGA-UtNI_HF1vfTKt_W-2" value="TCP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="TTGA-UtNI_HF1vfTKt_W-1">
           <mxGeometry y="-10" width="80" height="15.45" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="Jau65hqgs5f0Z8g7lOGl-1" value="&lt;div&gt;浏览器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-458.18" y="370" width="88.18" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jau65hqgs5f0Z8g7lOGl-2" value="连接(从客户端指向服务器)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="-35" width="98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
