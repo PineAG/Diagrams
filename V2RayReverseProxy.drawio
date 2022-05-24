@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T18:23:29.011Z" agent="5.0 (Windows)" etag="EbpP_1xCF4yX41z3wHoh" version="18.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-24T18:25:40.429Z" agent="5.0 (Windows)" etag="mWrsNXxwiPXoNjbNWcmf" version="18.1.2" type="github" pages="2">
   <diagram id="dAfNnbwmk66fKgJQbiKN" name="图例">
-    <mxGraphModel dx="1630" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1381" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,10 +37,10 @@
         <mxCell id="MxNdQzAcVEnt0wkq7xaE-1" value="经过代理的连接" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-360" y="20" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MxNdQzAcVEnt0wkq7xaE-2" value="V2Ray Inbound" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+        <mxCell id="MxNdQzAcVEnt0wkq7xaE-2" value="&lt;div&gt;V2Ray Inbound&lt;/div&gt;&lt;div&gt;将外部连接接入V2Ray&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-360" y="86.82" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MxNdQzAcVEnt0wkq7xaE-3" value="V2Ray Outbound" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+        <mxCell id="MxNdQzAcVEnt0wkq7xaE-3" value="&lt;div&gt;V2Ray Outbound&lt;/div&gt;&lt;div&gt;将V2Ray内部流量发往外部&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-360" y="166.82" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MxNdQzAcVEnt0wkq7xaE-4" value="V2Ray 实例" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
@@ -49,11 +49,14 @@
         <mxCell id="MxNdQzAcVEnt0wkq7xaE-5" value="外部客户端/服务器" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-360" y="395" width="98" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-o0n9CucqJSz07B7oCcp-2" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="520" width="150" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-a_eOgk3tNtn--gN5NtH" name="基本模型">
-    <mxGraphModel dx="1381" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="-a_eOgk3tNtn--gN5NtH" name="简单模型">
+    <mxGraphModel dx="1496" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
