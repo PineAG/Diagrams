@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T11:00:31.314Z" agent="5.0 (Windows)" version="18.1.2" etag="twCXVAjr3jzuDqo5btrt" type="github"><diagram id="-a_eOgk3tNtn--gN5NtH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-24T18:06:59.937Z" agent="5.0 (Windows)" etag="5qDxCsnXFLfp9JwpI8cN" version="18.1.2" type="github">
+  <diagram id="-a_eOgk3tNtn--gN5NtH" name="第 1 页">
+    <mxGraphModel dx="1630" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="80" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-3" value="socks" style="shape=or;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-93.64" y="118.18" width="43.64" height="43.64" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-4" value="vmess" style="shape=or;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="4.55" y="118.18" width="45.45" height="43.64" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-8" value="" style="group;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50.002837606837616" y="134.99545454545452" width="74.18160683760684" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-6" value="HTTP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="kUxxyB-mZXL6-8QbKrn9-8">
+          <mxGeometry y="-10" width="74.18" height="15.45" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=JetBrains+Mono&quot;&gt;vmess&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="kUxxyB-mZXL6-8QbKrn9-8">
+          <mxGeometry y="5.45" width="74.18" height="14.55" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-10" value="HTTP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="266.18" y="130" width="65.45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-11" value="HTTP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="130" width="54.55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="142.28" y="80" width="97.72" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-13" value="vmess" style="shape=or;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="124.18" y="118.18" width="40" height="43.64" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-14" value="&lt;div&gt;free&lt;/div&gt;&lt;div&gt;dom&lt;br&gt;&lt;/div&gt;" style="shape=or;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="222.91" y="118.18" width="43.27" height="43.64" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-15" value="HTTP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="164.18" y="130" width="58.73" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-19" value="HTTP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-151.82" y="124.55" width="58.18" height="15.45" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-20" value="socks" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-151.82" y="140" width="58.18" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-24" value="&lt;div&gt;浏览器&lt;/div&gt;&lt;div&gt;(支持&lt;/div&gt;&lt;div&gt;socks代理)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="80" width="78.18" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-25" value="网页服务器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="335" y="80" width="78.18" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
