@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T18:51:46.089Z" agent="5.0 (Windows)" etag="xdJtnpvyHF5Rp0Zv95dY" version="18.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-24T18:51:54.804Z" agent="5.0 (Windows)" etag="ruFA5__UUAUSel_QzIOp" version="18.1.2" type="github" pages="4">
   <diagram id="dAfNnbwmk66fKgJQbiKN" name="图例">
     <mxGraphModel dx="1209" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="kUxxyB-mZXL6-8QbKrn9-19" value="TCP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-350" y="334.55" width="73.36" height="15.45" as="geometry" />
         </mxCell>
-        <mxCell id="kUxxyB-mZXL6-8QbKrn9-20" value="SOCKS&lt;font style=&quot;font-size: 10px;&quot;&gt;+&lt;i&gt;TCP&lt;/i&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+        <mxCell id="kUxxyB-mZXL6-8QbKrn9-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;SOCKS&lt;font style=&quot;font-size: 10px;&quot;&gt;+&lt;i&gt;TCP&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="-350" y="350" width="73.36" height="15" as="geometry" />
         </mxCell>
         <mxCell id="kUxxyB-mZXL6-8QbKrn9-24" value="&lt;div&gt;浏览器&lt;/div&gt;&lt;div&gt;(支持&lt;/div&gt;&lt;div&gt;socks代理)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
