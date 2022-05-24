@@ -1,4 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T18:11:32.259Z" agent="5.0 (Windows)" etag="OvE1_aY5ougBGaOLmMVM" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T18:13:06.390Z" agent="5.0 (Windows)" etag="U0EfQnZ1vqylqsPpFsvt" version="18.1.2" type="github" pages="2">
+  <diagram id="dAfNnbwmk66fKgJQbiKN" name="图例">
+    <mxGraphModel dx="1381" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o6Mup9R42cLi4TRuiqjT-1" value="socks" style="shape=or;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-414.64" y="100" width="43.64" height="43.64" as="geometry" />
+        </mxCell>
+        <mxCell id="_T0HbXTaDHtxMW7bPjik-1" value="vmess" style="shape=or;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-416.45" y="160" width="45.45" height="43.64" as="geometry" />
+        </mxCell>
+        <mxCell id="qxkkCo4nE8JRs2fD6mIy-1" value="TCP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="20" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TTGA-UtNI_HF1vfTKt_W-1" value="" style="group;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-450.9971623931624" y="59.99545454545455" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TTGA-UtNI_HF1vfTKt_W-2" value="TCP" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="TTGA-UtNI_HF1vfTKt_W-1">
+          <mxGeometry y="-10" width="80" height="15.45" as="geometry" />
+        </mxCell>
+        <mxCell id="TTGA-UtNI_HF1vfTKt_W-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=JetBrains+Mono&quot;&gt;vmess&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="TTGA-UtNI_HF1vfTKt_W-1">
+          <mxGeometry y="5.45" width="80" height="14.55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="-a_eOgk3tNtn--gN5NtH" name="基本模型">
     <mxGraphModel dx="1630" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
